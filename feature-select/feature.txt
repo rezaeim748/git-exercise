@@ -1,1 +1,5 @@
-This project Can Do awesome things
+<<<<<<< .merge_file_a15240
+This project Can Do awesome things including: A
+=======
+This project Can Do awesome things including: B
+>>>>>>> .merge_file_a12584
